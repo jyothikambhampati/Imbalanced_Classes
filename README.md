@@ -1,4 +1,4 @@
-# Imbalanced_Classes
+# A Study on Imbalanced Classes using Machine Learning
 
 This master thesis is a study about handling an imbalanced classification problem where
 atleast one of the classes constitutes only a very small minority of the data. In this
